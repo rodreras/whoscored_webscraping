@@ -22,7 +22,7 @@ For example, in the 2020 dataset, the 1st row is like this: `1. Flamengo`
 This means that Flamengo was the championship winner for 2020.
 
 
-#### Columns
+### Columns
 `equipe` - team
 
 `gols`- total number of goals scored in the season
